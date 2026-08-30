@@ -9,9 +9,9 @@
 
 **`Estudante de TI`**
 ---
-yagwdywadg
+Olá! Meu nome é Samuel, sou estudante de Tecnologia da Informação e tenho grande paixão pelo aprendizado e pela área de tecnologia. Busco evoluir constantemente, adquirindo novos conhecimentos e desenvolvendo minhas habilidades a cada dia. Meu objetivo é me tornar um profissional competente, preparado para enfrentar desafios e contribuir de forma positiva na área em que atuo.
 
- awdwadawdwa 🚀
+ C#, Python e MySQL 🚀
 
 <p align="left">
     </a> 
